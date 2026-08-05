@@ -22,10 +22,10 @@ A Python-based attendance system that uses face recognition to mark student atte
 3. Set up MySQL database using `Attendance System.sql`
 4. Create a `.env` file with your database credentials:
 
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=attendance_system
+- DB_HOST=localhost 
+- DB_USER=root 
+- DB_PASSWORD=your_password
+- DB_NAME=attendance_system
 
 5. Run the GUI:
 
