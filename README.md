@@ -1,4 +1,4 @@
-# 📷 Attendance System Using Facial Recognition
+# 📷 VisionMark - Attendance System Using Facial Recognition
 
 This project is a Python-based real-time attendance system using facial recognition. It uses the webcam to detect and recognize faces, marks attendance for recognized individuals, and saves the records in a `.csv` file with the current date.
 
